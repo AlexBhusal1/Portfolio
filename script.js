@@ -238,7 +238,7 @@ filterBtns.forEach((btn) => {
 
 // ── Copy Email to Clipboard ─────────────────────────────
 const copyBtn = document.getElementById('copy-email-btn');
-const EMAIL = 'prasidbhusal07@gmail.com';
+const EMAIL = 'alexbhusal1@gmail.com';
 
 // Toast utility
 function showToast(msg) {

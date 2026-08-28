@@ -1,7 +1,7 @@
 {
   "name": "prasid-portfolio",
   "version": "1.0.0",
-  "description": "Prasid Bhusal — Full Stack Developer Portfolio",
+  "description": "Alex Bhusal — Full Stack Developer Portfolio",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
