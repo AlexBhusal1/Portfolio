@@ -459,7 +459,7 @@ function initTerminal() {
 
   const script = [
     { kind: 'cmd',  text: 'whoami' },
-    { kind: 'out',  text: 'prasid_bhusal  // full stack dev' },
+    { kind: 'out',  text: 'alex_bhusal  // full stack dev' },
     { kind: 'cmd',  text: 'cat skills.json' },
     { kind: 'out',  text: '{ "react":92, "ts":85, "node":87' },
     { kind: 'out',  text: '  "next":88,  "aws":72, "docker":78 }' },
